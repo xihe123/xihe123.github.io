@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xihe123.github.io/posts/9daba997.html</loc>
-    
-    <lastmod>2023-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xihe123.github.io/posts/576c43d4.html</loc>
-    
-    <lastmod>2023-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xihe123.github.io/bangumis/index.html</loc>
     
     <lastmod>2023-12-11</lastmod>
@@ -155,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://xihe123.github.io/site/census/index.html</loc>
+    <loc>https://xihe123.github.io/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://xihe123.github.io/site/time/index.html</loc>
+    <loc>https://xihe123.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
